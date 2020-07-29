@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import time
 import pandas as pd
 import numpy as np
@@ -27,7 +25,6 @@ DAYS_LIST = ['monday',
              'saturday',
             'sunday',
             'all']
-
 
 
 def get_filters():
