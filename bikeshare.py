@@ -242,8 +242,6 @@ def display_data(df):
             if end_display == 'no':
                 break
         
-        
-        
 def main():
     
     while True:
