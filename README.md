@@ -6,6 +6,7 @@ Udacity Bikeshare Python Project
 I utilized Python to explore data for bikeshare service for three cities in the US - Chicago, New York City, Washington.
 
 Files Used:
+
 washington.csv
 new_york_city.csv
 chicago.csv
