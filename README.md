@@ -1,11 +1,9 @@
 July 28th 2020
 
 
-### Project Title
-Replace the Project Title
+Udacity Bikeshare Python Project
 
-### Description
-Describe what your project is about and what it does
+I utilized Python to explore data for bikeshare service for three cities in the US - Chicago, New York City, Washington.
 
 ### Files used
 Include the files used
