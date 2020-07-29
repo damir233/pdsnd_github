@@ -1,4 +1,4 @@
-July 28th 2020
+Date of Project: July 28th 2020
 
 
 Udacity Bikeshare Python Project
