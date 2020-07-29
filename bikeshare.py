@@ -59,7 +59,7 @@ def get_filters():
             print('No results found, please check your spelling.').lower()
             day = input('Which day of the week would you like to request data for? or all?').lower()
 
-        print('your choice was: ', day)
+        print('The day you chose was: ', day)
 
         return city, month, day
     except Exception as e:
